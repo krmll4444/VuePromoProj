@@ -1,5 +1,5 @@
-# budnikov
-
+# Budnikov promo project
+# Project base (Vue2 + Vuetify)
 ## Project setup
 ```
 npm install
