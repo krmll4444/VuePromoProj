@@ -1,5 +1,9 @@
 # Budnikov promo project
 # Project base (Vue2 + Vuetify)
+## Project Link
+```
+https://budnikov-2022.web.app/#/
+```
 ## Project setup
 ```
 npm install
